@@ -1,6 +1,6 @@
 var x = 0;
 var y = 0;
-var spacing = 35;
+var spacing = 20;
 
 
 function setup() {
